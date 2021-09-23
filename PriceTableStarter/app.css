@@ -47,6 +47,8 @@ table {
 	border-spacing: 0;
 }
 
+/*CSS RESET END*/
+
 html{
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
@@ -57,7 +59,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .panel{
